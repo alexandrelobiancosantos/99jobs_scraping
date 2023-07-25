@@ -1,0 +1,15 @@
+Solicitação:
+Quero que vc aguarde eu digitar uma Descrição do Projeto no próximo prompt. Após receber a descrição, você deve segmentar o projeto em tópicos de conhecimento necessário para realizar o projeto, lista de requisitos do projeto, proposta de cronograma do projeto e estimativa de orçamento baseado na sua base de dados.
+
+Descrição do Projeto:
+
+				Procuro um freelancer que possua experiência em Python para Mercado de Ações Brasil e consiga programar em Python uma estratégia que monte uma carteira de ações usando o conceito de Factor Investing, que leva em consideração o Earning Yield (rendimento dos lucros) e o fator Momentum. Além disso, a estratégia inclui um componente de seguimento de tendências, que entrará nas ações somente quando elas estiverem em tendência de alta, identificada através do cruzamento de médias móveis.1. Etapas principais para a implementação:   a) Coleta de dados: O programador precisa obter dados financeiros históricos das ações, incluindo preços de fechamento, lucros e outras informações necessárias para calcular o Earning Yield e o fator Momentum.   b) Cálculo do Earning Yield: O Earning Yield é calculado como o lucro líquido por ação dividido pelo preço da ação. O programador precisará calcular esse valor para todas as ações do conjunto considerado.   c) Cálculo do fator Momentum: O fator Momentum é calculado como a média móvel da rentabilidade das ações em um período específico. O programador precisará calcular o Momentum para todas as ações do conjunto considerado.   d) Seleção da carteira: O programador deve criar um ranking combinando os valores de Earning Yield e Momentum para selecionar as ações que apresentam os melhores resultados.   e) Estratégia de seguimento de tendências: O programador deve implementar uma estratégia que acompanhe as médias móveis das ações selecionadas e só entre em posições quando as médias móveis cruzarem para cima, sinalizando uma tendência de alta.   f) Gerenciamento de carteira: O programador também pode implementar um algoritmo para gerenciar a carteira, determinando quando comprar, vender ou manter posições com base nas mudanças nos valores de Earning Yield, Momentum e tendências de médias móveis.2. Bibliotecas sugeridas:   - pandas: Para manipulação e análise de dados financeiros.   - numpy: Para cálculos matemáticos avançados.   - yfinance: Para obtenção de dados históricos de ações.   - ta: Para cálculo de indicadores técnicos, como médias móveis.Essas são apenas algumas das etapas e bibliotecas que podem ser usadas para implementar a estratégia de Factor Investing com critérios de Earning Yield, Momentum e seguimento de tendências. O código completo e detalhado dependerá das preferências e necessidades específicas do projeto.Eu já possuo boa parte do código desenvolvido porém preciso alguém com experiência para concluir.
+			
+
+Resposta do GPT:
+1. Coleta de dados:
+2. Cálculo do Earning Yield:
+3. Cálculo do fator Momentum:
+4. Seleção da carteira:
+5. Estratégia de seguimento de tendências:
+6. Gerenciamento de carteira:
